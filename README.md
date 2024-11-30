@@ -11,7 +11,6 @@ Features:
 
 Screenshots:
 
-![Flashy - Flash Card python app - frame at 0m0s](https://github.com/user-attachments/assets/1f83e46f-248c-49f4-80c2-fdb6385228f9)
-![Flashy - Flash Card python app - frame at 0m3s](https://github.com/user-attachments/assets/190dd5ee-3dff-423b-9441-ccf3a9760320)
+<img width="891" alt="Screenshot 2024-11-30 221632" src="https://github.com/user-attachments/assets/498be504-df8b-42cb-9ba5-230a77cedc21">
 <img width="408" alt="words to learn" src="https://github.com/user-attachments/assets/374f3412-10c0-4950-81e4-47d909fe092e">
 <img width="598" alt="french words" src="https://github.com/user-attachments/assets/a7ef3c81-e5c6-4dfd-b380-27e6e7cd900c">
