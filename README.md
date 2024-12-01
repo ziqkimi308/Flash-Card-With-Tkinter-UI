@@ -6,6 +6,7 @@ Flashy is a simple and interactive flash card application built with Python and 
 
 ---
 ### Features:
+
 - Interactive Flash Cards: Learn French (or any other language) by testing your knowledge with flash cards.
 - Track Your Progress: Mark words as known, and the app will save which words need more practice.
 - Sleek UI with Tkinter: User-friendly design with smooth transitions between cards.
