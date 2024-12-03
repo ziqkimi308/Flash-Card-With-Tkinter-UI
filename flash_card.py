@@ -1,3 +1,12 @@
+################################################################################
+# Project Name:  Flash Card
+# Description:   This project is flash card to learn french words to english translations. It uses Tkinter for user interface.
+# Author:        ziqkimi308
+# Created:       2024-12-03
+# Updated:       2024-12-03
+# Version:       1.0
+################################################################################
+
 # IMPORT
 from tkinter import *
 import pandas
