@@ -15,14 +15,14 @@ import pandas
 import random
 
 # CONSTANT
-CARD_FRONT_PATH = r"E:\Learning\Python\Python_Projects\Flash_Card\images\card_front.png"
-CARD_BACK_PATH = r"E:\Learning\Python\Python_Projects\Flash_Card\images\card_back.png"
+CARD_FRONT_PATH = r"./images/card_front.png"
+CARD_BACK_PATH = r"./images/card_back.png"
 
-RIGHT_PATH = r"E:\Learning\Python\Python_Projects\Flash_Card\images\right.png"
-WRONG_PATH = r"E:\Learning\Python\Python_Projects\Flash_Card\images\wrong.png"
+RIGHT_PATH = r"./images/right.png"
+WRONG_PATH = r"./images/wrong.png"
 
-DATA_PATH = r"E:\Learning\Python\Python_Projects\Flash_Card\data\french_words.csv"
-DATA_TO_LEARN_PATH = r"E:\Learning\Python\Python_Projects\Flash_Card\data\words_to_learn.csv"
+DATA_PATH = r"./data/french_words.csv"
+DATA_TO_LEARN_PATH = r"./data/words_to_learn.csv"
 
 GREEN = "#b1dcc7"
 
